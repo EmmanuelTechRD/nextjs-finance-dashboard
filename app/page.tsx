@@ -29,6 +29,7 @@ export default function Page() {
           >
             <span>Log in</span> <ArrowRightIcon className="w-5 md:w-6" />
           </Link>
+          <div className="my-3 block text-xs font-medium text-gray-900">Built with Next.js + TailwindCSS. Developed by <a href="https://www.esportfolio.dev/" className="hover:underline" target="_blank">Emmanuel Soto</a> following the <a href="https://nextjs.org/learn" className="hover:underline" target="_blank">Next Learn courses</a>.</div>
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           {/* Add Hero Images Here */}

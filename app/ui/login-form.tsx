@@ -83,6 +83,7 @@ export default function LoginForm() {
             </>
           )}
         </div>
+        <div className="my-3 block text-xs font-medium text-gray-900">Credentials: <br />user@nextmail.com <br /> 123456</div>
       </div>
     </form>
   );
